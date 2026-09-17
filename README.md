@@ -102,3 +102,7 @@ Total Estimated Budget: ₹50,000
 - Helps reduce passenger congestion
 - Supports emergency evacuation guidance
 - Can work through mobile devices and digital kiosks
+
+## Result
+
+The proposed RailNav system helps passengers easily find railway station facilities such as platforms, ticket counters, restrooms, food courts, waiting halls, lifts and escalators. It provides an interactive station map and displays a suitable route from the user's location to the selected destination. The accessible route option helps passengers choose routes using facilities such as lifts. Thus, the system makes railway station navigation simpler, faster and more accessible.
